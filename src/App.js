@@ -1,4 +1,3 @@
-import './App.css';
 import ItemListContainer from './componentes/catalogo/ItemListContainer';
 import NavBar from './componentes/navbar/NavBar';
 

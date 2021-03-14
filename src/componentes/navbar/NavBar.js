@@ -1,4 +1,5 @@
 import CartWidget from './CartWidget';
+import './NavBar.css'
 
 
 
@@ -41,11 +42,14 @@ function NavBar () {
                 type="search"
                 placeholder="Search"
                 aria-label="Search"></input>
-              <button className="btn btn-outline-success" type="submit">
+              <button className="btn btn-outline-secondary" type="submit">
                 Search
               </button>
               
-              <CartWidget/>
+              
+              <a class="btn btn-secondary CartWidget" href="#" role="button"> <CartWidget/> </a>
+
+              
               
             </form>
            

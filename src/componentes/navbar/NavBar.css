@@ -1,3 +1,5 @@
-CartWidget {
-    width: 50%;
+.CartWidget {
+    width: 75%;
+    cursor: pointer;
+    margin-left: 1em;
 }
