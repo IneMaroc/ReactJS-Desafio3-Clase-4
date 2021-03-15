@@ -47,7 +47,7 @@ function NavBar () {
               </button>
               
               
-              <a class="btn btn-secondary CartWidget" href="#" role="button"> <CartWidget/> </a>
+              <a class="btn btn-secondary CartWidgetLink" href="#" role="button"> <CartWidget/> </a>
 
               
               

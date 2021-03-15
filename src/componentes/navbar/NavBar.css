@@ -1,5 +1,8 @@
-.CartWidget {
-    width: 75%;
+.CartWidgetLink {
+    width: 50%;
     cursor: pointer;
     margin-left: 1em;
+    padding: 0.2em;
+    
 }
+
